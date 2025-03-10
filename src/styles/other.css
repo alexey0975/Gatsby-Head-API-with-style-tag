@@ -1,0 +1,29 @@
+body {
+    max-width: 1024px;
+    margin: 200px auto;
+}
+
+.page {
+    background-color: #232129;
+    color: #fff;
+    padding: 96px;
+    font-family: -apple-system, Roboto, sans-serif, serif;
+}
+
+.heading {
+    margin-top: 0;
+    margin-bottom: 64px;
+    max-width: 320px;
+}
+
+.paragraph {
+    margin-top: 0;
+    margin-bottom: 48px;
+}
+
+.link {
+    color: #8954A8;
+    font-weight: bold;
+    font-size: 16px;
+    vertical-align: 5%;
+}
