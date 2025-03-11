@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Link } from 'gatsby';
 
-import theme from '!raw-loader!!../../styles/other.css';
+import theme from '!!raw-loader!../../styles/other.css';
 
 const IndexPage = () => {
   return (
